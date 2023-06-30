@@ -657,8 +657,6 @@
 
             "use strict";
 
-
-
             var siteMenuClone = function() {
 
                 $('.js-clone-nav').each(function() {
